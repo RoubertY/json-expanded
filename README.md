@@ -1,4 +1,4 @@
-# json-expansion
+# jsonexpansion
 A Json Expansion Made For Coding/Do More Stuff In JSON
 
 ## How do i use it??
@@ -12,5 +12,5 @@ how to use it
 open cmd and put this code in (U NEED TO HAVE GIT FOR THIS)
 
 ``
-haxelib git json-expansion https://github.com/RoubertY/json-expansion.git
+haxelib git jsonexpansion https://github.com/RoubertY/json-expansion.git
 ``
