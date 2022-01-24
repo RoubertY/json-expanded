@@ -10,6 +10,7 @@ how to use it
 # Installation
 
 open cmd and put this code in (U NEED TO HAVE GIT FOR THIS)
+
 ``
-haxelib git 
+haxelib git json-expansion https://github.com/RoubertY/json-expansion.git
 ``
