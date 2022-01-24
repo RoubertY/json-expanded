@@ -1,5 +1,6 @@
 # jsonexpansion
 A Json Expansion Made For Coding/Do More Stuff In JSON
+It Has Support For Flixel To
 
 ## How do i use it??
 
